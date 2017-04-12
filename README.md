@@ -50,7 +50,7 @@ This letter was submitted to Nature in the form of [Brief Communications Arrisin
 ***
 **REPRODUCIBILITY**   
 The `R` code to reproduce the analysis and figures presented here cam be found by the link:  
-https://github.com/ikashnitsky/misc/tree/master/2016/1610_nature_letter
+https://github.com/ikashnitsky/a-cohort-is-not-representative-of-humanity
 
 ***
 **PUBLICATION**  
