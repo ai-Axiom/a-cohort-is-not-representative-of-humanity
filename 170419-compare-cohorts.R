@@ -22,10 +22,6 @@ require(ggthemes) # version 3.4.0
 library(extrafont) # version 0.17
 myfont <- "Roboto Condensed" 
 library(cowplot) # version 0.7.0
-library("devtools")
-install_github("baptiste/egg")
-library("egg")
-
 
 
 
